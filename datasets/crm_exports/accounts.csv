@@ -1,0 +1,9 @@
+account_id,name,industry,region,status
+ACC001,HealthFirst,Healthcare,North America,Active
+ACC002,MedCore,Healthcare,Europe,Active
+ACC003,RetailMax,Retail,North America,Active
+ACC004,FinTrust,BFSI,North America,Active
+ACC005,GlobalBank,BFSI,Europe,Active
+ACC006,ShopEase,Retail,APAC,Active
+ACC007,AutoWorks,Manufacturing,Europe,Active
+ACC008,TechNova,Technology,North America,Active

@@ -1,0 +1,7 @@
+project_id,account_id,name,technology,status,budget,actual_cost,delay_days
+PRJ001,ACC004,Azure Modernization,Azure,Completed,700000,650000,0
+PRJ002,ACC005,Snowflake Platform,Snowflake,Completed,600000,550000,0
+PRJ003,ACC003,Databricks Analytics,Databricks,Completed,400000,380000,0
+PRJ004,ACC008,GraphRAG Platform,Neo4j,Delayed,650000,720000,35
+PRJ005,ACC007,Factory AI Insights,Azure,Delayed,500000,620000,45
+PRJ006,ACC006,Retail Recommendation Engine,Databricks,Completed,450000,420000,0

@@ -1,0 +1,7 @@
+project_id,employee_name,skill,allocation_percent
+PRJ001,Mike Johnson,Azure Architecture,80
+PRJ002,Sarah Wilson,Snowflake Engineering,90
+PRJ003,David Clark,Databricks Engineering,85
+PRJ004,Alex Martin,Neo4j Engineering,70
+PRJ005,Emma White,Azure Architecture,60
+PRJ006,Chris Green,Databricks Engineering,80

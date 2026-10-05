@@ -1,0 +1,11 @@
+opportunity_id,account_id,sales_rep_id,title,technology,service,deal_value,status,stage,created_date,close_date,loss_reason
+OPP001,ACC001,SR001,AWS Migration,AWS,Cloud Migration,500000,Lost,Negotiation,2025-01-10,2025-03-20,AWS Skill Shortage
+OPP002,ACC002,SR002,AWS Data Lake,AWS,Data Engineering,450000,Lost,Proposal,2025-02-01,2025-04-15,Proposal Delay
+OPP003,ACC004,SR001,Azure Modernization,Azure,Cloud Migration,700000,Won,Won,2025-01-05,2025-02-28,
+OPP004,ACC005,SR002,Snowflake Platform,Snowflake,Data Engineering,600000,Won,Won,2025-01-12,2025-03-01,
+OPP005,ACC003,SR004,Databricks Analytics,Databricks,AI Analytics,400000,Won,Won,2025-02-10,2025-03-25,
+OPP006,ACC001,SR001,Healthcare AI Assistant,AWS,GenAI,550000,Lost,Proposal,2025-03-01,2025-05-10,Resource Unavailability
+OPP007,ACC008,SR004,GraphRAG Platform,Neo4j,AI Development,650000,Won,Won,2025-02-15,2025-04-20,
+OPP008,ACC007,SR002,Factory AI Insights,Azure,AI Development,500000,Won,Won,2025-03-01,2025-05-15,
+OPP009,ACC006,SR003,Retail Recommendation Engine,Databricks,AI Analytics,450000,Won,Won,2025-03-10,2025-05-20,
+OPP010,ACC002,SR002,Cloud Transformation,AWS,Cloud Migration,700000,Lost,Negotiation,2025-03-15,2025-05-30,AWS Architect Shortage
